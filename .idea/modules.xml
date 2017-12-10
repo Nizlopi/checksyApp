@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Checksy.iml" filepath="$PROJECT_DIR$/.idea/modules/Checksy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Checksy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Checksy_main.iml" group="Checksy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Checksy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Checksy_test.iml" group="Checksy" />
+    </modules>
+  </component>
+</project>
